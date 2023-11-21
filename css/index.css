@@ -75,7 +75,7 @@ h2 {
 }
 
 
-.container > span {
+.container>span {
   display: flex;
   max-width: 80%;
   justify-content: center;
@@ -113,6 +113,12 @@ a ion-icon {
   --ionicon-stroke-width: 32px;
 }
 
+.repo-button {
+  margin-top: 2rem;
+  background: #000;
+  color: #fff;
+  border: 2px solid #fff;
+}
 
 img.app {
   width: 80vw;
